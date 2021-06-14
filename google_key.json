@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kinetic-genre-311911",
+  "private_key_id": "fabf8cd4acc45503599e3208d559fdf010f3530e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9pTIwK9ngiHnm\nCIVzXv+ytKTqQDy6E19tMN+cR6FXA6R3r29gpaqvI0R0xxBPOBSib3csEQ2Oq0DS\nbt//HG/ypgWNkZGIG1WpvRmmUzMJKKWkcpBzARUMD4QdEUzwrp9+etY2B5Thd7Rm\n9ngvdi150U5C0o2QE5279oVeW78UQXHALGL1MrXbirrCDxBJmSKIVXyAhVecg5ex\nfFoDynzYAPeR+DzafbFLMr2VuGtRtYR9QFXcXlZw8liZZHjmmEzbf8adKuj6+PlF\nnRBSvzW4L4gFp0s8fyFzm7Fv0MtaJthm5m/Cb05XlUVXHM1fRtFN4W57rkZxDHAq\n3SiZyaEtAgMBAAECggEAFa1DPlRU1CBlZpDEyDosmf2h+BCdoFtEhhOXC6L4YxzM\neM25ul9VUi2CzqJOT+/GFAcPpR7R4OPcRfFccymJ9j9Z1SO1ccxGD1/JBcTuyXY2\n8MQTlMGj6TwAyt3GYKBlJKzfvU9Cij8HhNlZRXuJmSn+ew7cFYLYfbqg5fcwsRzT\nKhAlPFvxxS6/asCOy9Qh95KztVGPXNbu8W7d4GYg6BBV96ifPMCUSwaXNsWFdtTt\nrjMUG0yQ33U9pRbd1e+NhLBUskW56kATnyTJegFqVpYntU5ABs9kVZxW+VHxKOM7\nAj/Q/sNCeZIkKgw5PhlXAddYBz2H1jLaZSZYcEx2FQKBgQD4i45nrwhVrLB0K1N9\n7X0Kpvwx4Rgufd15+UbZifxF/cTafaKArBM4piU5l6vVXhQ6SXNRMmkodpxMopYd\nTTRXi3PHgUuY77zDGmKdjM3bvGLvxEG+i9BmFMYOmWSTjwexs2dIXOgqguq/c0fG\nWn5KmqH3gRRDHjJqvsQLbNhv0wKBgQDDVWE1l6pJLemH+z2Em8dqjtz9Y1a4Dq3q\nTw+gSHUlPwG1ZQjYq4ARYiS2N15bXWLeuDwTCdP0zaqXLdft30OC44OpcoYlOWev\njHC67B6EqtLFLdDyu5HiQsEci0a2WMuQdFB2oInMJSjopble1fHOHk3bS3kidzlH\naa47DlwK/wKBgQCmMywWyUSZhdC43gAGxThIV0FtWUgCTsg7OCXYchzv8LIiKMDx\nqh9wUimySWnuU+rSzyr9sOgA1s/NrysSjP3jTK0vS5Zxvl5LWOl40R8XQPInwuTz\ntiq1GE8YlBpdUdejTIRUL0xQoRq4yy3Dxd+No7mK+BXEi/zKxKXzveU9YQKBgHYc\njmcliiYtyOQcmxowR+i68g2Vn74zwh3IKJ62sX8QFixlJ3A8Y3gfbCtyV2/PjBU4\nObsZWjzQj7JSWhrPwbbHc7lmMo8XowaXWSLt25ZE5KWuCoZ7vL6ftr1Xyi5AivaS\nHoVclXYHkjD65JffrhMAZ/uOK3UXul7gHCZBjI5pAoGBAL5S2O+hJIRg4pKxZSc1\ndfUjd5XsqLgOkR2YHogdbiMFQ42I5CKOLxRvn6rRdModTIUnY5ISkH04QqtPpmfu\nNd8uX0rsGhidOiuJjQCfanE5ulgZSRTsVaJMJSV5ta748in6sOYNj8jmQ/srrA3M\nhBWh62euXiqNgjney9ivWGU6\n-----END PRIVATE KEY-----\n",
+  "client_email": "restfullapi-node-course@kinetic-genre-311911.iam.gserviceaccount.com",
+  "client_id": "106070427210167045684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/restfullapi-node-course%40kinetic-genre-311911.iam.gserviceaccount.com"
+}
